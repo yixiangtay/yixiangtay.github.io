@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yixiang91.github.io/project/yixiang91.github.io/</loc>
+  </url><url>
+    <loc>https://yixiang91.github.io/post/first-post/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yixiang91.github.io/post/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yixiang91.github.io/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yixiang91.github.io/about/</loc>
+  </url><url>
+    <loc>https://yixiang91.github.io/categories/</loc>
+  </url><url>
+    <loc>https://yixiang91.github.io/tags/hugo/</loc>
+  </url><url>
+    <loc>https://yixiang91.github.io/project/</loc>
+  </url><url>
+    <loc>https://yixiang91.github.io/tags/</loc>
+  </url>
+</urlset>
