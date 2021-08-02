@@ -5,7 +5,35 @@
     <link>https://yixiangtay.github.io/tags/</link>
     <description>Recent content in Tags on Yi Xiang TAY</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://yixiangtay.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yixiangtay.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bfs</title>
+      <link>https://yixiangtay.github.io/tags/bfs/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yixiangtay.github.io/tags/bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dfs</title>
+      <link>https://yixiangtay.github.io/tags/dfs/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yixiangtay.github.io/tags/dfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://yixiangtay.github.io/tags/python/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yixiangtay.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo</title>
       <link>https://yixiangtay.github.io/tags/hugo/</link>

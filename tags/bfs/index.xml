@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yi Xiang TAY</title>
-    <link>https://yixiangtay.github.io/post/</link>
-    <description>Recent content in Posts on Yi Xiang TAY</description>
+    <title>bfs on Yi Xiang TAY</title>
+    <link>https://yixiangtay.github.io/tags/bfs/</link>
+    <description>Recent content in bfs on Yi Xiang TAY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yixiangtay.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yixiangtay.github.io/tags/bfs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tree Traversal</title>
       <link>https://yixiangtay.github.io/post/tree-traversal/</link>
@@ -15,16 +15,6 @@
       <guid>https://yixiangtay.github.io/post/tree-traversal/</guid>
       <description>This post contains code snippets for recursive/iterative versions of breadth/depth-first search.
  Breadth-First Search  Level Order Traversal  import collections def recursive_level_order(queue, res): if not queue: return node = queue.popleft() res.append(node.val) # process node if node.left: queue.append(node.left) if node.right: queue.append(node.right) return recursive_level_order(queue, res) def iterative_level_order(root): queue = collections.deque([root]) res = [] while queue: node = queue.popleft() res.append(node.val) # process node if node.left: queue.append(node.left) if node.right: queue.append(node.right) return res  Depth-First Search  Inorder Traversal  def recursive_inorder(root, res): if root: recursive_inorder(root.</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://yixiangtay.github.io/post/first-post/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yixiangtay.github.io/post/first-post/</guid>
-      <description>Hello Welcome to my personal page!
-I will be using this to document my learning journey.</description>
     </item>
     
   </channel>
