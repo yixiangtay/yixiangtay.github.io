@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yi Xiang TAY</title>
-    <link>https://yixiang91.github.io/</link>
+    <link>https://yixiangtay.github.io/</link>
     <description>Recent content on Yi Xiang TAY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yixiang91.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yixiangtay.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>yixiang91.github.io</title>
-      <link>https://yixiang91.github.io/project/yixiang91.github.io/</link>
+      <link>https://yixiangtay.github.io/project/yixiang91.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yixiang91.github.io/project/yixiang91.github.io/</guid>
+      <guid>https://yixiangtay.github.io/project/yixiang91.github.io/</guid>
       <description>Check out the project here.</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>https://yixiang91.github.io/post/first-post/</link>
+      <link>https://yixiangtay.github.io/post/first-post/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yixiang91.github.io/post/first-post/</guid>
+      <guid>https://yixiangtay.github.io/post/first-post/</guid>
       <description>Hello Welcome to my personal page!
 I will be using this to document my learning journey.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://yixiang91.github.io/about/</link>
+      <link>https://yixiangtay.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yixiang91.github.io/about/</guid>
+      <guid>https://yixiangtay.github.io/about/</guid>
       <description>Yi Xiang is a backend software developer in one of the largest bank in Southeast Asia and is concurrently pursuing a master’s degree in Computer Science. He is constantly looking for ways to improve his programming skills and believes having a solid understanding of fundamentals is important to writing good software.</description>
     </item>
     

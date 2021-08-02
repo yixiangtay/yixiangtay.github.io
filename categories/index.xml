@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yi Xiang TAY</title>
-    <link>https://yixiang91.github.io/categories/</link>
+    <link>https://yixiangtay.github.io/categories/</link>
     <description>Recent content in Categories on Yi Xiang TAY</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://yixiang91.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://yixiangtay.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
